@@ -1,6 +1,6 @@
-# 📊 Canada Temporary Foreign Worker & International Mobility Program Analysis (2015–2024)
+# Canada Temporary Foreign Worker & International Mobility Program Analysis (2015–2024)
 
-## 📌 Project Overview
+## Project Overview
 This project presents a comprehensive data analysis of Canada’s Temporary Foreign Worker Program (TFWP) and International Mobility Program (IMP).  
 It explores workforce trends, regional distribution, occupational demand, and the impact of global events on foreign labor mobility.
 
@@ -8,7 +8,7 @@ The goal is to understand how international talent contributes to Canada’s eco
 
 ---
 
-## 📊 Key Objectives
+## Key Objectives
 - Analyze workforce trends across 2015–2024  
 - Compare TFWP vs IMP usage patterns  
 - Study provincial and occupational distribution  
@@ -17,7 +17,7 @@ The goal is to understand how international talent contributes to Canada’s eco
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Power BI – Dashboard development & visualization  
 - SQL Server – Data extraction & transformation  
 - Excel – Data preprocessing  
@@ -25,7 +25,7 @@ The goal is to understand how international talent contributes to Canada’s eco
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Significant growth in work permits over the analysis period  
 - High demand in technology, healthcare, and skilled trades  
 - Ontario and British Columbia dominate permit distribution  
@@ -34,7 +34,7 @@ The goal is to understand how international talent contributes to Canada’s eco
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 - Interactive filters (province, occupation, year, program type)  
 - Line charts for trend analysis  
 - Heat maps for regional comparison  
@@ -43,4 +43,4 @@ The goal is to understand how international talent contributes to Canada’s eco
 
 ---
 
-## 📁 Project Structure
+
